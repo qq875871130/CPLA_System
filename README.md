@@ -1,6 +1,5 @@
 # CPLA_System
 基于Unity UGUI的桌面端应用尝试-车牌识别与追踪系统
-版本:2.0
 
 如何使用:
 打开CarLisencesAnalyzSystem.exe即可进入系统
